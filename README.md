@@ -139,5 +139,3 @@ Projenin kodlarını çalıştırmak için aşağıdaki adımları izleyin:
 
 1. **Proje dosyalarını indirin ve uygun bir dizine çıkarın.**
 2. **Gerekli Python kütüphanelerini yükleyin:**
-   ```bash
-   pip install -r requirements.txt
